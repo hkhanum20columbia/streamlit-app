@@ -28,6 +28,7 @@ st.write("[Brand Kit & Guide](https://drive.google.com/file/d/1ujLiwYBQz4a29Pu3U
 st.write("[Positioning](https://docs.google.com/document/d/e/2PACX-1vTDXPV2nMiz5j8Q3tQa-B0l5TdNvu-6pGa8H3ZrVv2gGq2gvU-b0NlMrXQ6ocror3G-ggXIX7bBN5G3/pub)")
 st.write("[Pitch Decks](https://drive.google.com/file/d/1eV_h8_EF0ytZd2wk8o7-fWXSoluNPJoa/view?usp=sharing)")
 st.write("[Pitch Card](https://docs.google.com/presentation/d/1CISlvX0SxR5E0t1GiuDQPnu1UCI_1MU6/edit?usp=drive_link&ouid=107875029156894777800&rtpof=true&sd=true)")
+st.write("[Artificial Intelligence Sales Conversation Guide](https://docs.google.com/presentation/d/1u-WzzBIF2PuOKcFhWswswEXH9J5nzn6Y/edit?usp=drive_link&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Value Proposition Work](https://docs.google.com/spreadsheets/d/1h7OtCshZeUx6owwiY_uv78_a_-b_1TTPpATX-fDq-uE/edit?usp=sharing)")
 st.write("[Product Roadmaps](https://docs.google.com/presentation/d/e/2PACX-1vQNecZnEyzdL97Aj_WdLqI7So7y2Yd6r7HRURtccvTykHhN23RBewEaoI1cW6jKYGdgwstNixziUJbX/pub?start=false&loop=false&delayms=3000)")
 st.write("[Sales Plays](https://docs.google.com/presentation/d/1rZh_L2SZ9nlXdjQ9RUkAlVuMArZxxYff/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
