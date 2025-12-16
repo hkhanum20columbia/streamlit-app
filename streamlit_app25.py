@@ -37,7 +37,7 @@ st.write("[Release Plans](https://docs.google.com/presentation/d/e/2PACX-1vT1Ks-
 st.write("[Product Councils & QBRs](https://docs.google.com/presentation/d/e/2PACX-1vRVuQam7miMWdPvfIE_cwmgq3-be1LGALL-zo1aqm0wOyvKrveRxhoJDkeWMFkSWJip720UNadL7anr/pub?start=false&loop=false&delayms=3000)")
 st.write("[Whitepapers & eBooks](https://drive.google.com/file/d/1L9OAtjMhwlvIqXVYz3SSUwIlRwo-gb1H/view?usp=sharing)")
 st.write("[Media Briefing](https://drive.google.com/file/d/1-Ep1blAvzViJ_LwuE7g7ChgYoDNXsy28/view?usp=sharing)")
-st.write("["Press Deck"](https://docs.google.com/presentation/d/1Cbt61Ei6j8HStxX7G6sfc-IE7IikLolO/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+st.write("[Press Deck](https://docs.google.com/presentation/d/1Cbt61Ei6j8HStxX7G6sfc-IE7IikLolO/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Analyst Relations](https://drive.google.com/file/d/1bO6JTV-47Th94W30AAInzcET5hInWLoK/view?usp=drive_link)")
 st.write("[Analyst Relations Reviews](https://drive.google.com/file/d/1bO6JTV-47Th94W30AAInzcET5hInWLoK/view?usp=drive_link)")
 st.write("[Webinars](https://docs.google.com/presentation/d/e/2PACX-1vQmqREOyu2p8MzBRoaoLhyfJXO6Gvr1Vca89lJCk1BEybqN29mL-glKBWSaJ6WGp12ozPuPB-Nw82yb/pub?start=false&loop=false&delayms=3000)")
