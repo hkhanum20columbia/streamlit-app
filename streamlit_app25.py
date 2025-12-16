@@ -38,7 +38,7 @@ st.write("[Webinars](https://docs.google.com/presentation/d/e/2PACX-1vQmqREOyu2p
 st.write("[Demos](https://drive.google.com/file/d/1IcjzU75IgZmhBuSKy70UORpZTjzsQ5Gn/view?usp=sharing)")
 st.write("[Communications Briefs](https://docs.google.com/document/d/e/2PACX-1vRQldN8nenLw2AD3BDQd9PinWhIQMMjPUnLVg51EinoioraJFwTulLSTdVRzudpznoPB57B5yoNeJLd/pub)")
 st.write("[Sales Enablement](https://docs.google.com/presentation/d/e/2PACX-1vThVVZt23ctuHTYpQDdvRUWUMwYuWobEaVVpqzlpXgT0v0xVh5UFcHlDq5O-UQLofvU0dF7yS7Ij-Tl/pub?start=false&loop=false&delayms=3000)")
-st.write("[Sales Trainings](https://docs.google.com/presentation/d/e/2PACX-1vRcGJlUJVPKO0nVxvRoWe9XdShEgdv0Rswh32JpjqibvvAzP6Dinfcv23Arph69sj0jTeuJOxSbM0Bo/pub?start=false&loop=false&delayms=3000)")
+st.write("[Partner Enablement](https://docs.google.com/presentation/d/e/2PACX-1vRcGJlUJVPKO0nVxvRoWe9XdShEgdv0Rswh32JpjqibvvAzP6Dinfcv23Arph69sj0jTeuJOxSbM0Bo/pub?start=false&loop=false&delayms=3000)")
 st.write("[2-Pagers](https://docs.google.com/presentation/d/e/2PACX-1vRv_pxF7f9b-yXvvNuTkckM_DECqr-U1XUVxREKdUdxa2cnVzIIQA6fif_X5osbMcYG8v6_lS1IExOj/pub?start=false&loop=false&delayms=3000)")
 st.write("[1-Pagers](https://drive.google.com/file/d/1PK09u6vdaFLVLfRzGhFgMkcnnLWegjDc/view?usp=sharing)")
 st.write("[Personas & ICPs](https://docs.google.com/presentation/d/e/2PACX-1vSoE6TuNYwLFfHGlZpkcKVJrJAR0fRAQMKmoZuY9Ft2QC5a1NevMPNzqCtTuQV2Xv3ZUlop38jcObOJ/pub?start=false&loop=false&delayms=3000)")
