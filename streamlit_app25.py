@@ -49,7 +49,7 @@ st.write("[Case Studies](https://docs.google.com/presentation/d/e/2PACX-1vSpPbGa
 st.write("[Cheat Sheets](https://docs.google.com/document/d/e/2PACX-1vRbIMZ__fREBPa58rkLSfowoQisspEoAzKozaKPhh2O9Wfjds-i1NBmFHSdZmbLd10_xEABfFmgxtyh/pub)")
 st.write("[Data Sheets](https://docs.google.com/document/d/e/2PACX-1vRZ-Vslhg_AKDF5iBfClFbHIvymL4vgoN0yrZPnhpKOxOOuzIAbZBjYljB45iWKeK94EScObevYMiHN/pub)")
 st.write("[Competition](https://docs.google.com/document/d/e/2PACX-1vSwh-0ipAVZE6fCRRjLRHfD9z4fIIzMtYnc6JR5lXWZ7imNS2r9oMqLYNkKcW9ZOBYo3anzTjrC2nV5/pub)")
-st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/e/2PACX-1vQ-XkotkBmc6phfZpy03Ni2FTmJJfDbuJNAppp5pT1HRrwGFjLqwo4Vmssy__OCXYwfA7BmOs9NSBrH/pub?start=false&loop=false&delayms=3000)")
+st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/1ExDCJxQt9sannhimyzZBSoYRwAt3Rb87/edit?slide=id.g3a720fe49a3_0_0#slide=id.g3a720fe49a3_0_0)")
 st.write("[Campaigns](https://docs.google.com/presentation/d/e/2PACX-1vSH7uzCib91vD8ZabWKv1DFJivRKzUlIOr_-pWQQRf-PZ1JCdKeoBMiTNdqPuNux6DoA1ZMhn4tTy3L/pub?start=false&loop=false&delayms=3000)")
 st.write("[Branding](https://docs.google.com/presentation/d/e/2PACX-1vQoaJ_CsZKAvDlxq7ShicowHGZWk2BIE8AgeeX2HJBkMzDNOFeUkBnX8A_arJ4HZlKeaudvztWFMQnw/pub?start=false&loop=false&delayms=3000)")
 st.write("[Open Source](https://docs.google.com/presentation/d/e/2PACX-1vQNoBUduTmM-NQplGyMp1-GD024c9SJk5fbSwUXLwjoo0zxgJgMZpAjFVxkOyj8lYqpT-GJhmdeZvW8/pub?start=false&loop=false&delayms=3000)")
