@@ -30,7 +30,7 @@ st.write("[Product Roadmaps](https://docs.google.com/presentation/d/e/2PACX-1vQN
 st.write("[Marketing Launch Plans](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvDRGPYzJctrCtCrMQPkusyZZTWnkwwjJRPZjmPI9QVlL-_CMBEuwv2Nbnn6AYVj25uISExHGMIFAO/pubhtml)")
 st.write("[Release Plans](https://docs.google.com/presentation/d/e/2PACX-1vT1Ks-AWoryXc9yLzDwf37Pn84k4J7WCCAPiSj4ZpMcJTB-bp_gRfHQHmpBxp4pf6dv-G1geJO7Iree/pub?start=false&loop=false&delayms=3000)")
 st.write("[Product Councils & QBRs](https://docs.google.com/presentation/d/e/2PACX-1vRVuQam7miMWdPvfIE_cwmgq3-be1LGALL-zo1aqm0wOyvKrveRxhoJDkeWMFkSWJip720UNadL7anr/pub?start=false&loop=false&delayms=3000)")
-st.write("[Whitepapers & eBooks](https://drive.google.com/file/d/1eeWcIoUz7aBotNMgzHKcOV6r4ur9UUf4/view?usp=sharing)")
+st.write("[Whitepapers & eBooks](https://drive.google.com/file/d/1L9OAtjMhwlvIqXVYz3SSUwIlRwo-gb1H/view?usp=sharing)")
 st.write("[Analyst Relations](https://docs.google.com/presentation/d/11_lY_vAYScv2ZfcH1Wd2ZD2aHSvMBHLR/edit?usp=sharing&ouid=102279135462009992760&rtpof=true&sd=true)")
 st.write("[Webinars](https://docs.google.com/presentation/d/e/2PACX-1vQmqREOyu2p8MzBRoaoLhyfJXO6Gvr1Vca89lJCk1BEybqN29mL-glKBWSaJ6WGp12ozPuPB-Nw82yb/pub?start=false&loop=false&delayms=3000)")
 st.write("[Demos](https://drive.google.com/file/d/1IcjzU75IgZmhBuSKy70UORpZTjzsQ5Gn/view?usp=sharing)")
