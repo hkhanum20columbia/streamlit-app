@@ -34,7 +34,7 @@ st.write("[Product Roadmaps](https://docs.google.com/presentation/d/e/2PACX-1vQN
 st.write("[Sales Plays](https://docs.google.com/presentation/d/1rZh_L2SZ9nlXdjQ9RUkAlVuMArZxxYff/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Marketing Launch Plans](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvDRGPYzJctrCtCrMQPkusyZZTWnkwwjJRPZjmPI9QVlL-_CMBEuwv2Nbnn6AYVj25uISExHGMIFAO/pubhtml)")
 st.write("[Release Plans](https://docs.google.com/presentation/d/e/2PACX-1vT1Ks-AWoryXc9yLzDwf37Pn84k4J7WCCAPiSj4ZpMcJTB-bp_gRfHQHmpBxp4pf6dv-G1geJO7Iree/pub?start=false&loop=false&delayms=3000)")
-st.write("[Product Councils & QBRs](https://docs.google.com/presentation/d/e/2PACX-1vRVuQam7miMWdPvfIE_cwmgq3-be1LGALL-zo1aqm0wOyvKrveRxhoJDkeWMFkSWJip720UNadL7anr/pub?start=false&loop=false&delayms=3000)")
+st.write("[Product Councils & QBRs](https://docs.google.com/presentation/d/16m_9dCtl-iwX4UNGKsbDAzS1k4g-XN9K/edit?slide=id.p6#slide=id.p6)")
 st.write("[Whitepapers & eBooks](https://drive.google.com/file/d/1L9OAtjMhwlvIqXVYz3SSUwIlRwo-gb1H/view?usp=sharing)")
 st.write("[Media Briefing](https://drive.google.com/file/d/1-Ep1blAvzViJ_LwuE7g7ChgYoDNXsy28/view?usp=sharing)")
 st.write("[Press Deck](https://docs.google.com/presentation/d/1Cbt61Ei6j8HStxX7G6sfc-IE7IikLolO/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
