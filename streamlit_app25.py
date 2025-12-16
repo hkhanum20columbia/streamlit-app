@@ -54,7 +54,7 @@ st.write("[Competition](https://docs.google.com/document/d/e/2PACX-1vSwh-0ipAVZE
 st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/1ExDCJxQt9sannhimyzZBSoYRwAt3Rb87/edit?slide=id.g3a720fe49a3_0_0#slide=id.g3a720fe49a3_0_0)")
 st.write("[Campaigns](https://docs.google.com/presentation/d/e/2PACX-1vSH7uzCib91vD8ZabWKv1DFJivRKzUlIOr_-pWQQRf-PZ1JCdKeoBMiTNdqPuNux6DoA1ZMhn4tTy3L/pub?start=false&loop=false&delayms=3000)")
 st.write("[Branding](https://docs.google.com/presentation/d/e/2PACX-1vQoaJ_CsZKAvDlxq7ShicowHGZWk2BIE8AgeeX2HJBkMzDNOFeUkBnX8A_arJ4HZlKeaudvztWFMQnw/pub?start=false&loop=false&delayms=3000)")
-st.write("[Product Pages](https://drive.google.com/file/d/1ImMgSeyR1ibrp8jjgJpcazrEtTN2rRZ4/view?usp=sharing)")
+st.write("[Product Pages](https://drive.google.com/file/d/19m-DEsiyflRnh7f76NE1BIhHq-KG0IwU/view?usp=sharing)")
 st.write("[Open Source](https://docs.google.com/presentation/d/e/2PACX-1vQNoBUduTmM-NQplGyMp1-GD024c9SJk5fbSwUXLwjoo0zxgJgMZpAjFVxkOyj8lYqpT-GJhmdeZvW8/pub?start=false&loop=false&delayms=3000)")
 st.write("[Content Marketing](https://drive.google.com/file/d/1x59eYyBO1ebI9dr32G-GTrXyIU5tekpV/view?usp=sharing)")
 st.write("[Project Management](https://docs.google.com/spreadsheets/d/e/2PACX-1vTqlrt5DhTK8nIsqNsvQw6L2wDaj-qqqfSymq9Cn2iIG9_3lMKS0EwcmLLaBeYLS8mL8bs5TPF7yxQF/pubhtml)")
