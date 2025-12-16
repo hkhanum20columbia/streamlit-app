@@ -46,6 +46,7 @@ st.write("[Partner Enablement](https://drive.google.com/file/d/1m4cLcCLM5vggEGXY
 st.write("[2-Pagers](https://docs.google.com/presentation/d/e/2PACX-1vRv_pxF7f9b-yXvvNuTkckM_DECqr-U1XUVxREKdUdxa2cnVzIIQA6fif_X5osbMcYG8v6_lS1IExOj/pub?start=false&loop=false&delayms=3000)")
 st.write("[1-Pagers](https://drive.google.com/file/d/1PK09u6vdaFLVLfRzGhFgMkcnnLWegjDc/view?usp=sharing)")
 st.write("[Personas & ICPs](https://docs.google.com/presentation/d/e/2PACX-1vSoE6TuNYwLFfHGlZpkcKVJrJAR0fRAQMKmoZuY9Ft2QC5a1NevMPNzqCtTuQV2Xv3ZUlop38jcObOJ/pub?start=false&loop=false&delayms=3000)")
+st.write("[How to Sell Guide, Personas & ICPs](https://docs.google.com/presentation/d/1BumAOvpwJ5cum0hZQ3D11Kl63KjenyNX/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Case Studies](https://docs.google.com/presentation/d/e/2PACX-1vSpPbGaJO9U-HwBDBo5FCG1p1f-oENv0_2n-4WOIVpMCyFHRb2K4Pcjz22dL0ycdRyPIKpSeGiuFoKB/pub?start=false&loop=false&delayms=3000)")
 st.write("[Cheat Sheets](https://docs.google.com/document/d/e/2PACX-1vRbIMZ__fREBPa58rkLSfowoQisspEoAzKozaKPhh2O9Wfjds-i1NBmFHSdZmbLd10_xEABfFmgxtyh/pub)")
 st.write("[Data Sheets](https://docs.google.com/document/d/e/2PACX-1vRZ-Vslhg_AKDF5iBfClFbHIvymL4vgoN0yrZPnhpKOxOOuzIAbZBjYljB45iWKeK94EScObevYMiHN/pub)")
