@@ -57,6 +57,7 @@ st.write("[Branding](https://docs.google.com/presentation/d/e/2PACX-1vQoaJ_CsZKA
 st.write("[Product Pages](https://drive.google.com/file/d/19m-DEsiyflRnh7f76NE1BIhHq-KG0IwU/view?usp=sharing)")
 st.write("[Open Source](https://docs.google.com/presentation/d/e/2PACX-1vQNoBUduTmM-NQplGyMp1-GD024c9SJk5fbSwUXLwjoo0zxgJgMZpAjFVxkOyj8lYqpT-GJhmdeZvW8/pub?start=false&loop=false&delayms=3000)")
 st.write("[Content Marketing](https://drive.google.com/file/d/1x59eYyBO1ebI9dr32G-GTrXyIU5tekpV/view?usp=sharing)")
+st.write("[Marketing Copy Master Deck](https://drive.google.com/file/d/1jA7CCLk5Z81Qgdgdm_-YzZMHrcrUC1ti/view?usp=sharing)")
 st.write("[WebPages](https://drive.google.com/file/d/1SzlTGo1EVBNIvlCe4liOXOBOScnpss4J/view?usp=sharing)")
 st.write("[Project Management](https://docs.google.com/spreadsheets/d/e/2PACX-1vTqlrt5DhTK8nIsqNsvQw6L2wDaj-qqqfSymq9Cn2iIG9_3lMKS0EwcmLLaBeYLS8mL8bs5TPF7yxQF/pubhtml)")
 
