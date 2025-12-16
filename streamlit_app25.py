@@ -64,6 +64,7 @@ st.write("[Infographic](https://drive.google.com/file/d/1tTxTOIT2TsyNSBGoGLB0MZi
 st.write("[WebPages](https://drive.google.com/file/d/1SzlTGo1EVBNIvlCe4liOXOBOScnpss4J/view?usp=sharing)")
 st.write("[Project Management](https://docs.google.com/spreadsheets/d/e/2PACX-1vTqlrt5DhTK8nIsqNsvQw6L2wDaj-qqqfSymq9Cn2iIG9_3lMKS0EwcmLLaBeYLS8mL8bs5TPF7yxQF/pubhtml)")
 st.write("[TIBCO Tech Talks](https://soundcloud.com/tibcosoftware/ttt-031-optimizing-rail-transportation-with-train-alytics)")
+st.write("[LIVE GA Announcement](https://docs.google.com/presentation/d/e/2PACX-1vThVVZt23ctuHTYpQDdvRUWUMwYuWobEaVVpqzlpXgT0v0xVh5UFcHlDq5O-UQLofvU0dF7yS7Ij-Tl/pub?start=false&loop=false&delayms=3000&slide=id.p10)")
 
 
          
