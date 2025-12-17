@@ -29,13 +29,25 @@ st.write(
 """
 )
 st.write("[Messaging](https://docs.google.com/document/d/e/2PACX-1vQmN2cSvEaqy_1tfDpSz-Q4a5wakVi2XIevC0q9rM-bQ5G_aT0K81VrJe-A-o4UbJFFLfSijGQvxxpD/pub)")
+st.write("[Positioning](https://docs.google.com/document/d/e/2PACX-1vTDXPV2nMiz5j8Q3tQa-B0l5TdNvu-6pGa8H3ZrVv2gGq2gvU-b0NlMrXQ6ocror3G-ggXIX7bBN5G3/pub)")
+st.write("[Value Proposition Work](https://docs.google.com/spreadsheets/d/1h7OtCshZeUx6owwiY_uv78_a_-b_1TTPpATX-fDq-uE/edit?usp=sharing)")
+st.write("[Competition](https://docs.google.com/document/d/e/2PACX-1vSwh-0ipAVZE6fCRRjLRHfD9z4fIIzMtYnc6JR5lXWZ7imNS2r9oMqLYNkKcW9ZOBYo3anzTjrC2nV5/pub)")
+st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/1ExDCJxQt9sannhimyzZBSoYRwAt3Rb87/edit?slide=id.g3a720fe49a3_0_0#slide=id.g3a720fe49a3_0_0)")
+st.write("[Personas & ICPs](https://docs.google.com/presentation/d/e/2PACX-1vSoE6TuNYwLFfHGlZpkcKVJrJAR0fRAQMKmoZuY9Ft2QC5a1NevMPNzqCtTuQV2Xv3ZUlop38jcObOJ/pub?start=false&loop=false&delayms=3000)")
+st.write("[How to Sell Guide, Personas & ICPs](https://docs.google.com/presentation/d/1BumAOvpwJ5cum0hZQ3D11Kl63KjenyNX/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+
+st.write("GTM & Launch Strategy")
+st.write(
+    """
+- Launch plans, sales plays, release planning, roadmaps, product councils
+"""
+)
 st.write("[Portfolio Strategy](https://docs.google.com/presentation/d/11_lY_vAYScv2ZfcH1Wd2ZD2aHSvMBHLR/edit?slide=id.p1#slide=id.p1)")
 st.write("[Brand Kit & Guide](https://drive.google.com/file/d/1ujLiwYBQz4a29Pu3UXzH0J4v-cD1UbOL/view?usp=sharing)")
-st.write("[Positioning](https://docs.google.com/document/d/e/2PACX-1vTDXPV2nMiz5j8Q3tQa-B0l5TdNvu-6pGa8H3ZrVv2gGq2gvU-b0NlMrXQ6ocror3G-ggXIX7bBN5G3/pub)")
+
 st.write("[Pitch Decks](https://drive.google.com/file/d/1eV_h8_EF0ytZd2wk8o7-fWXSoluNPJoa/view?usp=sharing)")
 st.write("[Pitch Card](https://docs.google.com/presentation/d/1CISlvX0SxR5E0t1GiuDQPnu1UCI_1MU6/edit?usp=drive_link&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Artificial Intelligence Sales Conversation Guide](https://docs.google.com/presentation/d/1u-WzzBIF2PuOKcFhWswswEXH9J5nzn6Y/edit?usp=drive_link&ouid=107875029156894777800&rtpof=true&sd=true)")
-st.write("[Value Proposition Work](https://docs.google.com/spreadsheets/d/1h7OtCshZeUx6owwiY_uv78_a_-b_1TTPpATX-fDq-uE/edit?usp=sharing)")
 st.write("[Product Roadmaps](https://docs.google.com/presentation/d/e/2PACX-1vQNecZnEyzdL97Aj_WdLqI7So7y2Yd6r7HRURtccvTykHhN23RBewEaoI1cW6jKYGdgwstNixziUJbX/pub?start=false&loop=false&delayms=3000)")
 st.write("[Sales Plays](https://docs.google.com/presentation/d/1rZh_L2SZ9nlXdjQ9RUkAlVuMArZxxYff/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
 st.write("[Marketing Launch Plans](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvDRGPYzJctrCtCrMQPkusyZZTWnkwwjJRPZjmPI9QVlL-_CMBEuwv2Nbnn6AYVj25uISExHGMIFAO/pubhtml)")
@@ -53,13 +65,11 @@ st.write("[Sales Enablement](https://docs.google.com/presentation/d/e/2PACX-1vTh
 st.write("[Partner Enablement](https://drive.google.com/file/d/1m4cLcCLM5vggEGXY3HwigkJYAgs51DOQ/view?usp=drive_link)")
 st.write("[2-Pagers](https://docs.google.com/presentation/d/e/2PACX-1vRv_pxF7f9b-yXvvNuTkckM_DECqr-U1XUVxREKdUdxa2cnVzIIQA6fif_X5osbMcYG8v6_lS1IExOj/pub?start=false&loop=false&delayms=3000)")
 st.write("[1-Pagers](https://drive.google.com/file/d/1PK09u6vdaFLVLfRzGhFgMkcnnLWegjDc/view?usp=sharing)")
-st.write("[Personas & ICPs](https://docs.google.com/presentation/d/e/2PACX-1vSoE6TuNYwLFfHGlZpkcKVJrJAR0fRAQMKmoZuY9Ft2QC5a1NevMPNzqCtTuQV2Xv3ZUlop38jcObOJ/pub?start=false&loop=false&delayms=3000)")
-st.write("[How to Sell Guide, Personas & ICPs](https://docs.google.com/presentation/d/1BumAOvpwJ5cum0hZQ3D11Kl63KjenyNX/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
+
 st.write("[Case Studies](https://docs.google.com/presentation/d/e/2PACX-1vSpPbGaJO9U-HwBDBo5FCG1p1f-oENv0_2n-4WOIVpMCyFHRb2K4Pcjz22dL0ycdRyPIKpSeGiuFoKB/pub?start=false&loop=false&delayms=3000)")
 st.write("[Cheat Sheets](https://docs.google.com/document/d/e/2PACX-1vRbIMZ__fREBPa58rkLSfowoQisspEoAzKozaKPhh2O9Wfjds-i1NBmFHSdZmbLd10_xEABfFmgxtyh/pub)")
 st.write("[Data Sheets](https://docs.google.com/document/d/e/2PACX-1vRZ-Vslhg_AKDF5iBfClFbHIvymL4vgoN0yrZPnhpKOxOOuzIAbZBjYljB45iWKeK94EScObevYMiHN/pub)")
-st.write("[Competition](https://docs.google.com/document/d/e/2PACX-1vSwh-0ipAVZE6fCRRjLRHfD9z4fIIzMtYnc6JR5lXWZ7imNS2r9oMqLYNkKcW9ZOBYo3anzTjrC2nV5/pub)")
-st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/1ExDCJxQt9sannhimyzZBSoYRwAt3Rb87/edit?slide=id.g3a720fe49a3_0_0#slide=id.g3a720fe49a3_0_0)")
+
 st.write("[Campaigns](https://docs.google.com/presentation/d/e/2PACX-1vSH7uzCib91vD8ZabWKv1DFJivRKzUlIOr_-pWQQRf-PZ1JCdKeoBMiTNdqPuNux6DoA1ZMhn4tTy3L/pub?start=false&loop=false&delayms=3000)")
 st.write("[Branding](https://docs.google.com/presentation/d/e/2PACX-1vQoaJ_CsZKAvDlxq7ShicowHGZWk2BIE8AgeeX2HJBkMzDNOFeUkBnX8A_arJ4HZlKeaudvztWFMQnw/pub?start=false&loop=false&delayms=3000)")
 st.write("[Product Pages](https://drive.google.com/file/d/19m-DEsiyflRnh7f76NE1BIhHq-KG0IwU/view?usp=sharing)")
