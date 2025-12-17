@@ -22,6 +22,12 @@ with left_column:
 
 st.write("---")
 st.header("My Projects")
+st.write("Positioning, Messaging & Narrative Development")
+st.write(
+    """
+- Messaging, positioning, value prop, ICPs, competitive, win-loss
+"""
+)
 st.write("[Messaging](https://docs.google.com/document/d/e/2PACX-1vQmN2cSvEaqy_1tfDpSz-Q4a5wakVi2XIevC0q9rM-bQ5G_aT0K81VrJe-A-o4UbJFFLfSijGQvxxpD/pub)")
 st.write("[Portfolio Strategy](https://docs.google.com/presentation/d/11_lY_vAYScv2ZfcH1Wd2ZD2aHSvMBHLR/edit?slide=id.p1#slide=id.p1)")
 st.write("[Brand Kit & Guide](https://drive.google.com/file/d/1ujLiwYBQz4a29Pu3UXzH0J4v-cD1UbOL/view?usp=sharing)")
