@@ -22,7 +22,7 @@ with left_column:
 
 st.write("---")
 st.header("My Projects")
-st.write("Positioning, Messaging & Narrative Development")
+st.write("1. Positioning, Messaging & Narrative Development")
 
 st.write("[Messaging](https://docs.google.com/document/d/e/2PACX-1vQmN2cSvEaqy_1tfDpSz-Q4a5wakVi2XIevC0q9rM-bQ5G_aT0K81VrJe-A-o4UbJFFLfSijGQvxxpD/pub)")
 st.write("[Positioning](https://docs.google.com/document/d/e/2PACX-1vTDXPV2nMiz5j8Q3tQa-B0l5TdNvu-6pGa8H3ZrVv2gGq2gvU-b0NlMrXQ6ocror3G-ggXIX7bBN5G3/pub)")
@@ -32,7 +32,7 @@ st.write("[Win-Loss Analysis](https://docs.google.com/presentation/d/1ExDCJxQt9s
 st.write("[Personas & ICPs](https://docs.google.com/presentation/d/e/2PACX-1vSoE6TuNYwLFfHGlZpkcKVJrJAR0fRAQMKmoZuY9Ft2QC5a1NevMPNzqCtTuQV2Xv3ZUlop38jcObOJ/pub?start=false&loop=false&delayms=3000)")
 st.write("[How to Sell Guide, Personas & ICPs](https://docs.google.com/presentation/d/1BumAOvpwJ5cum0hZQ3D11Kl63KjenyNX/edit?usp=sharing&ouid=107875029156894777800&rtpof=true&sd=true)")
 
-st.write("GTM & Launch Strategy")
+st.write("2. GTM & Launch Strategy")
 
 st.write("[Portfolio Strategy](https://docs.google.com/presentation/d/11_lY_vAYScv2ZfcH1Wd2ZD2aHSvMBHLR/edit?slide=id.p1#slide=id.p1)")
 st.write("[Product Roadmaps](https://docs.google.com/presentation/d/e/2PACX-1vQNecZnEyzdL97Aj_WdLqI7So7y2Yd6r7HRURtccvTykHhN23RBewEaoI1cW6jKYGdgwstNixziUJbX/pub?start=false&loop=false&delayms=3000)")
@@ -45,7 +45,7 @@ st.write("[Product Management](https://docs.google.com/presentation/d/e/2PACX-1v
 st.write("[Project Management](https://docs.google.com/spreadsheets/d/e/2PACX-1vTqlrt5DhTK8nIsqNsvQw6L2wDaj-qqqfSymq9Cn2iIG9_3lMKS0EwcmLLaBeYLS8mL8bs5TPF7yxQF/pubhtml)")
 
 
-st.write("Sales & Partner Enablement")
+st.write("3. Sales & Partner Enablement")
 
 st.write("[Pitch Decks](https://drive.google.com/file/d/1eV_h8_EF0ytZd2wk8o7-fWXSoluNPJoa/view?usp=sharing)")
 st.write("[Pitch Card](https://docs.google.com/presentation/d/1CISlvX0SxR5E0t1GiuDQPnu1UCI_1MU6/edit?usp=drive_link&ouid=107875029156894777800&rtpof=true&sd=true)")
@@ -56,7 +56,7 @@ st.write("[2-Pagers](https://docs.google.com/presentation/d/e/2PACX-1vRv_pxF7f9b
 st.write("[1-Pagers](https://drive.google.com/file/d/1PK09u6vdaFLVLfRzGhFgMkcnnLWegjDc/view?usp=sharing)")
 st.write("[Cheat Sheets](https://docs.google.com/document/d/e/2PACX-1vRbIMZ__fREBPa58rkLSfowoQisspEoAzKozaKPhh2O9Wfjds-i1NBmFHSdZmbLd10_xEABfFmgxtyh/pub)")
 
-st.write("Content & Demand Generation")
+st.write("4. Content & Demand Generation")
 
 st.write("[Whitepapers & eBooks](https://drive.google.com/file/d/1L9OAtjMhwlvIqXVYz3SSUwIlRwo-gb1H/view?usp=sharing)")
 st.write("[Data Sheets](https://docs.google.com/document/d/e/2PACX-1vRZ-Vslhg_AKDF5iBfClFbHIvymL4vgoN0yrZPnhpKOxOOuzIAbZBjYljB45iWKeK94EScObevYMiHN/pub)")
@@ -71,7 +71,7 @@ st.write("[Campaigns](https://docs.google.com/presentation/d/e/2PACX-1vSH7uzCib9
 st.write("[Product Pages](https://drive.google.com/file/d/19m-DEsiyflRnh7f76NE1BIhHq-KG0IwU/view?usp=sharing)")
 st.write("[TIBCO Tech Talks](https://soundcloud.com/tibcosoftware/ttt-031-optimizing-rail-transportation-with-train-alytics)")
 
-st.write("Brand, Analyst & Media Influence")
+st.write("5. Brand, Analyst & Media Influence")
 
 st.write("[Brand Kit & Guide](https://drive.google.com/file/d/1ujLiwYBQz4a29Pu3UXzH0J4v-cD1UbOL/view?usp=sharing)")
 st.write("[Branding](https://docs.google.com/presentation/d/e/2PACX-1vQoaJ_CsZKAvDlxq7ShicowHGZWk2BIE8AgeeX2HJBkMzDNOFeUkBnX8A_arJ4HZlKeaudvztWFMQnw/pub?start=false&loop=false&delayms=3000)")
