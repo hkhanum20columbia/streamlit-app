@@ -43,6 +43,7 @@ st.write("[Product Councils & QBRs](https://docs.google.com/presentation/d/16m_9
 st.write("[Communications Briefs](https://docs.google.com/document/d/e/2PACX-1vRQldN8nenLw2AD3BDQd9PinWhIQMMjPUnLVg51EinoioraJFwTulLSTdVRzudpznoPB57B5yoNeJLd/pub)")
 st.write("[Product Management](https://docs.google.com/presentation/d/e/2PACX-1vQNoBUduTmM-NQplGyMp1-GD024c9SJk5fbSwUXLwjoo0zxgJgMZpAjFVxkOyj8lYqpT-GJhmdeZvW8/pub?start=false&loop=false&delayms=3000)")
 st.write("[Project Management](https://docs.google.com/spreadsheets/d/e/2PACX-1vTqlrt5DhTK8nIsqNsvQw6L2wDaj-qqqfSymq9Cn2iIG9_3lMKS0EwcmLLaBeYLS8mL8bs5TPF7yxQF/pubhtml)")
+st.write("[Feature Launch Documentation](https://docs.tibco.com/pub/modelops/1.3.0/doc/html/index.html)")
 
 
 st.write("3. Sales & Partner Enablement")
